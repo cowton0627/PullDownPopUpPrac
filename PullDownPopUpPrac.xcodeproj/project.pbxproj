@@ -13,6 +13,7 @@
 		91A77273286EBA2E0044E0BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91A77271286EBA2E0044E0BB /* Main.storyboard */; };
 		91A77275286EBA2F0044E0BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91A77274286EBA2F0044E0BB /* Assets.xcassets */; };
 		91A77278286EBA2F0044E0BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91A77276286EBA2F0044E0BB /* LaunchScreen.storyboard */; };
+		91A77280286EC89A0044E0BB /* PopoverPresentationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A7727F286EC89A0044E0BB /* PopoverPresentationTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		91A77274286EBA2F0044E0BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91A77277286EBA2F0044E0BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		91A77279286EBA2F0044E0BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91A7727F286EC89A0044E0BB /* PopoverPresentationTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverPresentationTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				91A7726B286EBA2E0044E0BB /* AppDelegate.swift */,
 				91A7726D286EBA2E0044E0BB /* SceneDelegate.swift */,
 				91A7726F286EBA2E0044E0BB /* ViewController.swift */,
+				91A7727F286EC89A0044E0BB /* PopoverPresentationTableViewController.swift */,
 				91A77271286EBA2E0044E0BB /* Main.storyboard */,
 				91A77274286EBA2F0044E0BB /* Assets.xcassets */,
 				91A77276286EBA2F0044E0BB /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91A77270286EBA2E0044E0BB /* ViewController.swift in Sources */,
+				91A77280286EC89A0044E0BB /* PopoverPresentationTableViewController.swift in Sources */,
 				91A7726C286EBA2E0044E0BB /* AppDelegate.swift in Sources */,
 				91A7726E286EBA2E0044E0BB /* SceneDelegate.swift in Sources */,
 			);
